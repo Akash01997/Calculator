@@ -1,0 +1,22 @@
+add swagger dependency in pom.xml
+
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger2</artifactId>
+			<version>2.6.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger-ui</artifactId>
+			<version>2.6.1</version>
+		</dependency>
+
+
+
+localhost:8080/api/employee/getEmployee/101
+
+localhost:8080/api/employee/getEmployee
+
+Swagger url
+http://localhost:8080/swagger-ui.html#/
